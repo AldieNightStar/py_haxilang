@@ -1,0 +1,5 @@
+[use console]
+
+[def add a b {
+	[eval "return a + b"]
+}]
